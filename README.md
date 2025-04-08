@@ -6,13 +6,6 @@ https://bitcoincore.org
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
 
-What is Bitcoin Core?
----------------------
-
-Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
-validate blocks and transactions. It also includes a wallet and graphical user
-interface, which can be optionally built.
-
 Further information about Bitcoin Core is available in the [doc folder](/doc).
 
 License
